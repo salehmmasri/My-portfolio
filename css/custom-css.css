@@ -1,0 +1,30 @@
+#about {
+  padding:278px 10px 200px 20px !important;  
+  background-image: url(../img/bk1.jpg);
+  background-repeat: no-repeat;
+  overflow: hidden !important;
+  background-size: cover;
+
+}
+.fonts{
+	font-size: 30px;
+	margin-bottom: 10px;
+	margin-top: 5px;
+
+}
+#fonts1{
+	font-size: 30px !important;	
+
+    font-weight: 800;
+}
+.card--img img{
+	height: 300px !important;
+}
+.fn{
+	margin-top: 40px;
+	margin-bottom: 0;
+}
+.hedi {
+	color:black !important;
+}
+body h2,h3,h4,p{ color: black; }
