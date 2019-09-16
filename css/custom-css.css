@@ -21,10 +21,24 @@
 	height: 300px !important;
 }
 .fn{
-	margin-top: 40px;
+	margin-top: 20px;
 	margin-bottom: 0;
 }
 .hedi {
 	color:black !important;
 }
 body h2,h3,h4,p{ color: black; }
+.linksg {
+	margin-left: 5px;
+	font-size: 18px !important;
+	display: inline;
+}
+
+.cardbk{
+	background-image: linear-gradient(9deg, #004085, #17a2b8 )!important;
+}
+.cardbk i{
+	font-size: 3rem !important;}
+.cardbk h5 {
+	color: black;
+}
